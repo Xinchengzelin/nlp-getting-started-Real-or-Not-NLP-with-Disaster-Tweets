@@ -22,5 +22,5 @@
 
 （11）模型存在过拟合，使用sklearn.feature_selection.RFECV选择特征；
 
-（12）Public Leadboard：Top 32%
+（12）Public Leadboard：Score=0.80508   Top 32%
 
